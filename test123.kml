@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Route</name>
+    <description>Daily route</description>
+    <Style id="routeStyle">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <styleUrl>#routeStyle</styleUrl>
+      <LineString>
+        <coordinates>
+9.604102,44.979707
+9.604016,44.979506
+9.609163,44.948446
+9.609168,44.948447
+9.609168,44.948446
+9.609168,44.948446
+9.609168,44.948446
+9.609168,44.948446
+9.609169,44.948445
+9.609169,44.948445
+9.609169,44.948445
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
